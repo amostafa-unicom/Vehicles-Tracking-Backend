@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "VehicleTracking_WS": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

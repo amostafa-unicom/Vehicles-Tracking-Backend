@@ -1,0 +1,9 @@
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\bin\Release\netcoreapp3.1\E-Vision.SharedKernel.deps.json
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\bin\Release\netcoreapp3.1\E-Vision.SharedKernel.dll
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\bin\Release\netcoreapp3.1\E-Vision.SharedKernel.pdb
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\obj\Release\netcoreapp3.1\E-Vision.SharedKernel.csprojAssemblyReference.cache
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\obj\Release\netcoreapp3.1\E-Vision.SharedKernel.csproj.CoreCompileInputs.cache
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\obj\Release\netcoreapp3.1\E-Vision.SharedKernel.AssemblyInfoInputs.cache
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\obj\Release\netcoreapp3.1\E-Vision.SharedKernel.AssemblyInfo.cs
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\obj\Release\netcoreapp3.1\E-Vision.SharedKernel.dll
+D:\E-Vision-Task\E-Vision-Task\E-Vision.SharedKernel\obj\Release\netcoreapp3.1\E-Vision.SharedKernel.pdb

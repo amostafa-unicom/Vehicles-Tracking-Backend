@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "VehicleSimulator_WS": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

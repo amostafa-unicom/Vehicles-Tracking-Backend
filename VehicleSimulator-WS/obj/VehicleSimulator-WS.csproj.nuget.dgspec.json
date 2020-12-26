@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\E-Vision-Task\\E-Vision-Task\\VehicleSimulator-WS\\VehicleSimulator-WS.csproj": {}
+  },
+  "projects": {
+    "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Core\\E-Vision.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Core\\E-Vision.Core.csproj",
+        "projectName": "E-Vision.Core",
+        "projectPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Core\\E-Vision.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmed mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://192.168.50.244:8080/tfs/DevCollection/_packaging/UnicomNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.SharedKernel\\E-Vision.SharedKernel.csproj": {
+                "projectPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.SharedKernel\\E-Vision.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Infrastructure\\E-Vision.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Infrastructure\\E-Vision.Infrastructure.csproj",
+        "projectName": "E-Vision.Infrastructure",
+        "projectPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Infrastructure\\E-Vision.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ahmed mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://192.168.50.244:8080/tfs/DevCollection/_packaging/UnicomNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Core\\E-Vision.Core.csproj": {
+                "projectPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Core\\E-Vision.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.SharedKernel\\E-Vision.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.SharedKernel\\E-Vision.SharedKernel.csproj",
+        "projectName": "E-Vision.SharedKernel",
+        "projectPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.SharedKernel\\E-Vision.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\ahmed mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://192.168.50.244:8080/tfs/DevCollection/_packaging/UnicomNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Vision-Task\\E-Vision-Task\\VehicleSimulator-WS\\VehicleSimulator-WS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Vision-Task\\E-Vision-Task\\VehicleSimulator-WS\\VehicleSimulator-WS.csproj",
+        "projectName": "VehicleSimulator-WS",
+        "projectPath": "D:\\E-Vision-Task\\E-Vision-Task\\VehicleSimulator-WS\\VehicleSimulator-WS.csproj",
+        "packagesPath": "C:\\Users\\ahmed mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Vision-Task\\E-Vision-Task\\VehicleSimulator-WS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://192.168.50.244:8080/tfs/DevCollection/_packaging/UnicomNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Infrastructure\\E-Vision.Infrastructure.csproj": {
+                "projectPath": "D:\\E-Vision-Task\\E-Vision-Task\\E-Vision.Infrastructure\\E-Vision.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.EventLog": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

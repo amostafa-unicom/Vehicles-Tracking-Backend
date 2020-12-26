@@ -1,0 +1,12 @@
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\bin\Debug\netcoreapp3.1\E-Vision.Core.deps.json
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\bin\Debug\netcoreapp3.1\E-Vision.Core.dll
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\bin\Debug\netcoreapp3.1\E-Vision.Core.pdb
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\bin\Debug\netcoreapp3.1\E-Vision.SharedKernel.dll
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\bin\Debug\netcoreapp3.1\E-Vision.SharedKernel.pdb
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\obj\Debug\netcoreapp3.1\E-Vision.Core.csprojAssemblyReference.cache
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\obj\Debug\netcoreapp3.1\E-Vision.Core.AssemblyInfoInputs.cache
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\obj\Debug\netcoreapp3.1\E-Vision.Core.AssemblyInfo.cs
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\obj\Debug\netcoreapp3.1\E-Vision.Core.csproj.CopyComplete
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\obj\Debug\netcoreapp3.1\E-Vision.Core.dll
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\obj\Debug\netcoreapp3.1\E-Vision.Core.pdb
+D:\E-Vision-Task\E-Vision-Task\E-Vision.Core\obj\Debug\netcoreapp3.1\E-Vision.Core.csproj.CoreCompileInputs.cache
